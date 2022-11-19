@@ -6,7 +6,7 @@ public class git_Push_Pull_Close {
 
 		
 		System.out.println("Welcome to GIT");
-		
+		System.out.println("Push, Pull and Clone");
 	}
 
 }
